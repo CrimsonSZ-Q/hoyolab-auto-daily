@@ -1,3 +1,5 @@
+# Update 
+
 # Hoyolab Auto Daily Check In
 
 Today's check in status:
@@ -159,3 +161,4 @@ Just copy everything and paste to the COOKIE secret
 ### I have other issues
 
 To the [Issues page](https://github.com/sglkc/hoyolab-auto-daily/issues)
+
